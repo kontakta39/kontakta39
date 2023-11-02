@@ -18,7 +18,10 @@
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kontakta39&show_icons=true&locale=en&layout=compact" alt="kontakta39" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&" alt="kontakta39" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktordanchev&amp;theme=default" alt="kontakta39" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp;" alt="kontakta39" align="left" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktordanchev&amp;theme=default" alt="kontakta39" align="center" /> |
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp;" alt="kontakta39" align="left" /> |
 
