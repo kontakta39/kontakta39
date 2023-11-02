@@ -20,6 +20,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp;" alt="kontakta39" align="left" />
 
 | <a href="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kontakta39&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kontakta39's github stats" /></a> | <a href="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kontakta39&layout=compact&theme=buefy&hide_border=true" /></a> 
-| <a href="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kontakta39&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kontakta39's github stats" /></a> | <a href="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kontakta39&layout=compact&theme=buefy&hide_border=true" /></a> 
+| <a href="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp;" alt="kontakta39's github stats" /></a> | 
 | ------------- | ------------- |
 
