@@ -18,7 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kontakta39&show_icons=true&locale=en&layout=compact" alt="kontakta39" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&" alt="kontakta39" /></p>
 
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
+[![kontakta39's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kontakta39&&theme=xcode)](https://github.com/kontakta39)
