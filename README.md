@@ -1,4 +1,4 @@
-[![MasterHead][(https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)](https://github.com/kontakta39)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/kontakta39)
 <h1 align="center">Hello 👋, I'm Ivan Angelov</h1>
 <h3 align="center">A passionate C# Web Developer from Bulgaria</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/v2/resize:fit:200/1*pVgiUNKfclvbTk6pTUszdA@2x.gif">
