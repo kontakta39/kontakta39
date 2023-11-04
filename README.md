@@ -24,5 +24,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=default" alt="rishavchanda" /></p>
-<p>&nbsp;<img align="center" src="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp" alt="kontakta39's github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/kontakta39/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&amp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=default" alt="rishavchanda" /></p>
