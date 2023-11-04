@@ -18,6 +18,7 @@
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov"
 alt="kontakta39" /></p><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&&theme=default" alt="kontakta39" /></p>
-<hr>
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kontakta39&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kontakta39" /></p>
 
