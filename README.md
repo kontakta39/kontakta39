@@ -17,7 +17,9 @@
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov)]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov" alt="kontakta39" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov)]big l
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kontakta39&show_icons=true&locale=en&layout=compact&theme=default" alt="kontakta39" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontakta39&&theme=default" alt="kontakta39" /></p>
