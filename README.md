@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/v2/resize:fit:200/1*pVgiUNKfclvbTk6pTUszdA@2x.gif">
 
 
-- 🔭 I’m currently working on **JavaScript projects**
+- 🔭 I’m currently working on **ASP.NET & WordPress**
 
-- 🌱 I’m currently learning **JavaScript projects**
+- 🌱 I’m currently learning **ASP.NET Advanced**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kontakta39?tab=repositories](https://github.com/kontakta39?tab=repositories)
 
