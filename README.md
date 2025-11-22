@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ASP.NET Core Projects & WordPress Websites**
 
-- 🌱 I’m currently learning **ASP.NET Core Advanced**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kontakta39?tab=repositories](https://github.com/kontakta39?tab=repositories)
 
