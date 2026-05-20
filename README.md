@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://github.com/kontakta39)
-<h1 align="center">Hello 👋, I'm Ivan Angelov</h1>
-<h2 align="center">A passionate C# Web Developer from Bulgaria</h2>
+<h1 align="center">Hello, I'm Ivan Angelov 👋</h1>
+<h2 align="center">A passionate Web Developer from Bulgaria</h2>
 <img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/v2/resize:fit:200/1*pVgiUNKfclvbTk6pTUszdA@2x.gif">
 
 
